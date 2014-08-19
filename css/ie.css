@@ -1,0 +1,11 @@
+#header_940 {
+	background:transparent url("../images/main_nav_bg.gif"/*tpa=http://www.creativecub.com/templates/default/images/main_nav_bg.gif*/) 0 0 no-repeat;
+	padding:0 0 0 20px;
+	position:absolute;
+	left: 50%; 
+  top:0;
+	margin-left: -470px;
+	width:920px;
+	height:91px;
+	z-index:10;
+}
